@@ -1,0 +1,27 @@
+{
+  "name": "recipes-klikk-dataset",
+  "version": "0.0.1",
+  "description": "JSON dataset of recipes and ingredients from oppskrift.klikk.no. Built to test search-index running in the browser, possibly using React.",
+  "main": "klikk-ingredients.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/recipes-klikk-dataset.git"
+  },
+  "keywords": [
+    "JSON",
+    "dataset",
+    "searchindex",
+    "recipes",
+    "\"test",
+    "data\""
+  ],
+  "author": "Espen Klem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eklem/recipes-klikk-dataset/issues"
+  },
+  "homepage": "https://github.com/eklem/recipes-klikk-dataset#readme"
+}
