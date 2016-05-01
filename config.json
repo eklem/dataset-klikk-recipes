@@ -10,10 +10,6 @@
             "filter": true
         },
         {
-            "fieldName": "cheff",
-            "filter": true
-        },
-        {
             "fieldName": "country",
             "filter": true
         },
