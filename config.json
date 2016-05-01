@@ -2,8 +2,7 @@
     "batchname": "recipes",
     "nGramLength": [
         1,
-        2,
-        3
+        2
     ],
     "fieldOptions": [
         {
