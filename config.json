@@ -1,0 +1,31 @@
+{
+    "batchname": "recipes",
+    "nGramLength": [
+        1,
+        2,
+        3
+    ],
+    "fieldOptions": [
+        {
+            "fieldName": "type",
+            "filter": true
+        },
+        {
+            "fieldName": "cheff",
+            "filter": true
+        },
+        {
+            "fieldName": "country",
+            "filter": true
+        },
+        {
+            "fieldName": "time",
+            "filter": true
+        },
+        {
+            "fieldName": "ingredients",
+            "filter": true
+        }
+    ]
+}
+
