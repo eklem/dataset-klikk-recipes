@@ -6,14 +6,6 @@
     ],
     "fieldOptions": [
         {
-            "fieldName": "type",
-            "filter": true
-        },
-        {
-            "fieldName": "country",
-            "filter": true
-        },
-        {
             "fieldName": "time",
             "filter": true
         },
