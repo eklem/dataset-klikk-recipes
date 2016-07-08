@@ -1,0 +1,17 @@
+{
+    "batchname": "recipes",
+    "nGramLength": [
+        1,
+        2
+    ],
+    "fieldOptions": [
+        {
+            "fieldName": "time",
+            "filter": true
+        },
+        {
+            "fieldName": "ingredients",
+            "filter": true
+        }
+    ]
+}
