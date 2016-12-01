@@ -1,13 +1,14 @@
 {
-    "batchname": "recipes",
-    "nGramLength": [
-        1
-    ],
-    "fieldOptions": [
-        {
-            "fieldName": "ingredients",
-            "filter": true
-        }
-    ]
+  "batchSize": "1000",
+  "fieldedSearch": true,
+  "fieldOptions": {},
+  "preserveCase": false,
+  "storeable": true,
+  "searchable": true,
+  "indexPath": "si",
+  "logLevel": "info",
+  "nGramLength": "3",
+  "nGramSeparator": " ",
+  "separator": "/[|' .,-|(\n)]+/",
+  "stopwords": "require('stopword').no"
 }
-

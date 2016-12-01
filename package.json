@@ -1,7 +1,7 @@
 {
   "name": "recipes-klikk-dataset",
-  "version": "0.0.1",
-  "description": "JSON dataset of recipes and ingredients from oppskrift.klikk.no. Built to test search-index running in the browser, possibly using React.",
+  "version": "0.0.2",
+  "description": "JSON dataset + JSON stream of recipes and ingredients from oppskrift.klikk.no. Built to test search-index running in the browser, possibly using React.",
   "main": "klikk-ingredients.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
